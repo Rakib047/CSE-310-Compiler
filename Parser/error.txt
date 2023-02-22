@@ -1,0 +1,2 @@
+line# 21 : Total number of arguments mismatch in function var
+Total Errors: 1
